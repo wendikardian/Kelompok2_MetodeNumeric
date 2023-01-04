@@ -1,5 +1,5 @@
 ### Kelompok 2 Metode Numerik <br>
-1. Wendi Kardian
+1. Wendi Kardian 
 2. Tessa Nurwani
 3. Khairunnisa
 4. Afina Faza
